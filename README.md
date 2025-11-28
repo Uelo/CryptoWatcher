@@ -1,4 +1,4 @@
-# CryptoWatcher, seu visualizador de Cryptos
+# CryptoWatcher
 
   <img width="1062" height="1166" alt="image" src="https://github.com/user-attachments/assets/c9d1e45c-feb6-4366-b9ac-d053798248a5" />
   
